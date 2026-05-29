@@ -4,11 +4,13 @@
 
 This project demonstrates an end-to-end logistics analytics from customer revenue intelligence to driver workforce management and fleet cost control system.
 
-<img width="1221" height="737" alt="Customer and Load Operations Analysis" src="https://github.com/user-attachments/assets/5d390c5a-68e6-49a0-bb28-35d942906bf9" />
+<img width="1221" height="737" alt="Customer and Load Operations Analysis" src="https://github.com/user-attachments/assets/9cac9289-8bf6-440c-a499-fc078dbfe43d" />
 
-<img width="1310" height="741" alt="driver and trip" src="https://github.com/user-attachments/assets/6d2f3227-fc59-4695-9f37-12847ad47968" />
 
-<img width="1315" height="728" alt="fleet operations" src="https://github.com/user-attachments/assets/c8f97e2d-aacd-48e2-b761-c7ae0bd604ef" />
+<img width="1310" height="741" alt="driver and trip" src="https://github.com/user-attachments/assets/be434117-c48f-4d4b-bbb7-ca36fd2d4985" />
+
+<img width="1315" height="728" alt="fleet operations" src="https://github.com/user-attachments/assets/1159f03a-4374-4243-a9bb-8119b40a1341" />
+
 
 
 
